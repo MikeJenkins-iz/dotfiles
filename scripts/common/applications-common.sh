@@ -13,11 +13,10 @@ brew install --cask rectangle
 brew install --cask iterm2
 
 # Browsers
-#brew install --cask google-chrome # already have it
-#brew install --cask firefox # get it on your own
+##brew install --cask google-chrome # already have it
+##brew install --cask firefox # get it on your own
 
 # Communication
-#brew install --cask slack # already installed
-#brew install --cask zoom # no.
+##brew install --cask slack # already installed
 
 set -e
