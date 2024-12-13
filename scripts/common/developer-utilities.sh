@@ -3,8 +3,8 @@ echo
 # Don't exit if any of these fail
 set +e
   
-#brew install --cask dash # api browser
-brew install --cask postman # api interaction tool
-brew install --cask quicklook-json # OSX tool for viewing JSON
+#brew install dash # api browser
+brew install postman # api interaction tool
+brew install quicklook-json # OSX tool for viewing JSON
 
 set -e

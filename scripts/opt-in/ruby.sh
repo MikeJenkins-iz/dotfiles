@@ -11,7 +11,7 @@ gem install bundler
 rbenv rehash
 
 # guard against pre-installed rubymine
-brew install --cask rubymine --force
+brew install rubymine --force
 
 #source ${MY_DIR}/scripts/common/download-jetbrains-ide-prefs.sh
 #pushd ~/workspace/jetbrains-ide-prefs/cli

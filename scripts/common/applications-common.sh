@@ -6,17 +6,17 @@ echo
 echo "Installing applications"
 
 # Utilities
-brew install --cask flycut
-brew install --cask rectangle
+brew install flycut
+brew install rectangle
 
 # Terminals
-brew install --cask iterm2
+brew install iterm2
 
 # Browsers
-##brew install --cask google-chrome # already have it
-##brew install --cask firefox # get it on your own
+##brew install google-chrome # already have it
+##brew install firefox # get it on your own
 
 # Communication
-##brew install --cask slack # already installed
+##brew install slack # already installed
 
 set -e

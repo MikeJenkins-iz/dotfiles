@@ -12,7 +12,7 @@ npm install --global grunt-cli
 npm install --global gulp-cli
 
 # guard against preinstalled webstorm
-brew install --cask webstorm --force
+brew install webstorm --force
 
 #source ${MY_DIR}/scripts/common/download-jetbrains-ide-prefs.sh
 #pushd ~/workspace/jetbrains-ide-prefs/cli

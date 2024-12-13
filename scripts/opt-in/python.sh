@@ -4,7 +4,7 @@ echo "Installing Python tools"
 # guard against pre-installed pycharm
 brew install python
 brew install python3
-brew install --cask pycharm --force
+brew install pycharm --force
 
 #source ${MY_DIR}/scripts/common/download-jetbrains-ide-prefs.sh
 #pushd ~/workspace/jetbrains-ide-prefs/cli

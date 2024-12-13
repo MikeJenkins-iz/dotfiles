@@ -2,7 +2,7 @@
 set +e
 
 # Docker
-brew install --cask docker
+brew install docker
 echo "To get docker command-line tools, run the docker application"
 
 # Docker Zsh Completion

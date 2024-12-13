@@ -24,7 +24,7 @@ cp -n files/.git-authors ~/.git-authors || true
 
 echo "Installing git UI tools"
 set +e # Optional; don't exit if they fail
-brew install --cask rowanj-gitx
-brew install --cask sourcetree
-brew install --cask gitup
+brew install rowanj-gitx
+brew install sourcetree
+brew install gitup
 set -e
